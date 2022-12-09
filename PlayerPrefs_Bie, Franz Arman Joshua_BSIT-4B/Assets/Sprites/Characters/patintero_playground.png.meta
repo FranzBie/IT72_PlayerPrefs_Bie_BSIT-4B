@@ -1,0 +1,1747 @@
+fileFormatVersion: 2
+guid: eaafc599c886b93409761f0fd4fd5950
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3102495571269123054
+    second: patintero_playground_0
+  - first:
+      213: -3057177327026163618
+    second: patintero_playground_1
+  - first:
+      213: 4744475478513346563
+    second: patintero_playground_2
+  - first:
+      213: -2470449417640326715
+    second: patintero_playground_3
+  - first:
+      213: 7565261903102271932
+    second: patintero_playground_4
+  - first:
+      213: -6931843202719462487
+    second: patintero_playground_5
+  - first:
+      213: -1746870609478167859
+    second: patintero_playground_6
+  - first:
+      213: 7566409696869665791
+    second: patintero_playground_7
+  - first:
+      213: -7006986831087256174
+    second: patintero_playground_8
+  - first:
+      213: 8483584759315073874
+    second: patintero_playground_9
+  - first:
+      213: 9068996324532315771
+    second: patintero_playground_10
+  - first:
+      213: -7576638287587143334
+    second: patintero_playground_11
+  - first:
+      213: -4641448773717629268
+    second: patintero_playground_12
+  - first:
+      213: 5978543808293379692
+    second: patintero_playground_13
+  - first:
+      213: 1914877269148494423
+    second: patintero_playground_14
+  - first:
+      213: 7669798275715816153
+    second: patintero_playground_15
+  - first:
+      213: 6535588191013124767
+    second: patintero_playground_16
+  - first:
+      213: -3074450048119016218
+    second: patintero_playground_17
+  - first:
+      213: 6265082638655542528
+    second: patintero_playground_18
+  - first:
+      213: -500580940821440790
+    second: patintero_playground_19
+  - first:
+      213: -302867396694815755
+    second: patintero_playground_20
+  - first:
+      213: -5338091709547457652
+    second: patintero_playground_21
+  - first:
+      213: 7089693728724005450
+    second: patintero_playground_22
+  - first:
+      213: -6915140572902073274
+    second: patintero_playground_23
+  - first:
+      213: -4078722091329758239
+    second: patintero_playground_24
+  - first:
+      213: -5743655570566530653
+    second: patintero_playground_25
+  - first:
+      213: 7119045295650634407
+    second: patintero_playground_26
+  - first:
+      213: -2153333041650503519
+    second: patintero_playground_27
+  - first:
+      213: 7993306996817757164
+    second: patintero_playground_28
+  - first:
+      213: 6545494156474917726
+    second: patintero_playground_29
+  - first:
+      213: 3221203768933797536
+    second: patintero_playground_30
+  - first:
+      213: 8379388680030677580
+    second: patintero_playground_31
+  - first:
+      213: -4277907064723221051
+    second: patintero_playground_32
+  - first:
+      213: 8313609065592821055
+    second: patintero_playground_33
+  - first:
+      213: -931030819039693787
+    second: patintero_playground_34
+  - first:
+      213: -7495115246274004637
+    second: patintero_playground_35
+  - first:
+      213: 1132425638781103000
+    second: patintero_playground_36
+  - first:
+      213: 8267766105190656172
+    second: patintero_playground_37
+  - first:
+      213: 5982700489334368515
+    second: patintero_playground_38
+  - first:
+      213: 1036414401645680050
+    second: patintero_playground_39
+  - first:
+      213: -4778768303636398504
+    second: patintero_playground_40
+  - first:
+      213: -5637905924418772359
+    second: patintero_playground_41
+  - first:
+      213: 4187994089778391182
+    second: patintero_playground_42
+  - first:
+      213: -9120944861159595874
+    second: patintero_playground_43
+  - first:
+      213: 4992627595207434263
+    second: patintero_playground_44
+  - first:
+      213: 8050134244926753230
+    second: patintero_playground_45
+  - first:
+      213: 339389798449905683
+    second: patintero_playground_46
+  - first:
+      213: -8639710508723197109
+    second: patintero_playground_47
+  - first:
+      213: -1013233706007540918
+    second: patintero_playground_48
+  - first:
+      213: -4503088915919661878
+    second: patintero_playground_49
+  - first:
+      213: -2572987596536666039
+    second: patintero_playground_50
+  - first:
+      213: 1525717771687529129
+    second: patintero_playground_51
+  - first:
+      213: 1786132889541466277
+    second: patintero_playground_52
+  - first:
+      213: -1238783389687981283
+    second: patintero_playground_53
+  - first:
+      213: 8228479122627947801
+    second: patintero_playground_54
+  - first:
+      213: 53958041567395584
+    second: patintero_playground_55
+  - first:
+      213: -4086409922227362599
+    second: patintero_playground_56
+  - first:
+      213: 6751942698418091885
+    second: patintero_playground_57
+  - first:
+      213: 2934430533218859699
+    second: patintero_playground_58
+  - first:
+      213: 1164647586921621839
+    second: patintero_playground_59
+  - first:
+      213: 4536736488097214109
+    second: patintero_playground_60
+  - first:
+      213: 2284063320572069072
+    second: patintero_playground_61
+  - first:
+      213: 6435484878782532453
+    second: patintero_playground_62
+  - first:
+      213: -6222848934128189146
+    second: patintero_playground_63
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: patintero_playground_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 384
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214084537b8b1f4d0800000000000000
+      internalID: -3102495571269123054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 385
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e503a3f2b69b295d0800000000000000
+      internalID: -3057177327026163618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 385
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308e6567f43c7d140800000000000000
+      internalID: 4744475478513346563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 385
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c94af9f75337bdd0800000000000000
+      internalID: -2470449417640326715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_4
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 384
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1e43f4e953df860800000000000000
+      internalID: 7565261903102271932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 384
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab433765552dcf90800000000000000
+      internalID: -6931843202719462487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 384
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2db7d9f6ed1c7e0800000000000000
+      internalID: -1746870609478167859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 384
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbccfed789410960800000000000000
+      internalID: 7566409696869665791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_8
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 386
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d343b0a9e22ce90800000000000000
+      internalID: -7006986831087256174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_9
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 386
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b84e0046fbbb570800000000000000
+      internalID: 8483584759315073874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 381
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7662198b1c8bdd70800000000000000
+      internalID: 9068996324532315771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 310
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a519eb4ce9f5ad690800000000000000
+      internalID: -7576638287587143334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 310
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca663678ee2469fb0800000000000000
+      internalID: -4641448773717629268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 374
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e107ffaed08f250800000000000000
+      internalID: 5978543808293379692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 374
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae0181bb2039a10800000000000000
+      internalID: 1914877269148494423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 375
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dad1fa35e8907a60800000000000000
+      internalID: 7669798275715816153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 377
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a339b25d213ba50800000000000000
+      internalID: 6535588191013124767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_17
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 352
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4fe2a68fb5555d0800000000000000
+      internalID: -3074450048119016218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 352
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005d78d477b02f650800000000000000
+      internalID: 6265082638655542528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_19
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 352
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6d10959449d09f0800000000000000
+      internalID: -500580940821440790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 352
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb45f515bffbcbf0800000000000000
+      internalID: -302867396694815755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 320
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8357f16fd94be5b0800000000000000
+      internalID: -5338091709547457652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_22
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 320
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42b8ea22e6a36260800000000000000
+      internalID: 7089693728724005450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_23
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 320
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cd744794c7800a0800000000000000
+      internalID: -6915140572902073274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_24
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 320
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb50c03ed77567c0800000000000000
+      internalID: -4078722091329758239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_25
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 288
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9303490bf6a40b0800000000000000
+      internalID: -5743655570566530653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_26
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 288
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aafb236afdebc260800000000000000
+      internalID: 7119045295650634407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 288
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a07f49e103dd12e0800000000000000
+      internalID: -2153333041650503519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 288
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce387fdfc5eedee60800000000000000
+      internalID: 7993306996817757164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_29
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 234
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53251c714446da50800000000000000
+      internalID: 6545494156474917726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_30
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 234
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aec27cd2c304bc20800000000000000
+      internalID: 3221203768933797536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_31
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 256
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a682ccb91994470800000000000000
+      internalID: 8379388680030677580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_32
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 256
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5d901a032d1a4c0800000000000000
+      internalID: -4277907064723221051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_33
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 256
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f359024d56fdf5370800000000000000
+      internalID: 8313609065592821055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_34
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 256
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524b23427605413f0800000000000000
+      internalID: -931030819039693787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 192
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3693933f4600cf790800000000000000
+      internalID: -7495115246274004637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 224
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ba71e5e1f27bf00800000000000000
+      internalID: 1132425638781103000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_37
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 224
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca867e9d7710db270800000000000000
+      internalID: 8267766105190656172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_38
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 158
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309a458b562d60350800000000000000
+      internalID: 5982700489334368515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_39
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 158
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5903a3865126e00800000000000000
+      internalID: 1036414401645680050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 192
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e3bddfb876eadb0800000000000000
+      internalID: -4778768303636398504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 160
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e2f1ce6222c1b0800000000000000
+      internalID: -5637905924418772359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e882daa8f6ebe1a30800000000000000
+      internalID: 4187994089778391182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_43
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 160
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9068ae39f4eb6180800000000000000
+      internalID: -9120944861159595874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 160
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710e6248850694540800000000000000
+      internalID: 4992627595207434263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_45
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 128
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9011fb172d7bf60800000000000000
+      internalID: 8050134244926753230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 128
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3108ff83931c5b400800000000000000
+      internalID: 339389798449905683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_47
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 131
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b28554115991880800000000000000
+      internalID: -8639710508723197109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_48
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bc7fe005540f1f0800000000000000
+      internalID: -1013233706007540918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 82
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac41c964d70d181c0800000000000000
+      internalID: -4503088915919661878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_50
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 82
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94822f8c969ea4cd0800000000000000
+      internalID: -2572987596536666039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_51
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 96
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa8fe0da307c2510800000000000000
+      internalID: 1525717771687529129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_52
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 96
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8d2c2566e99c810800000000000000
+      internalID: 1786132889541466277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 96
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b5ef70215fecee0800000000000000
+      internalID: -1238783389687981283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_54
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 64
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91de4f96a2e613270800000000000000
+      internalID: 8228479122627947801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 64
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f766c8d82bfb000800000000000000
+      internalID: 53958041567395584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_56
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 64
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4a10393d72a47c0800000000000000
+      internalID: -4086409922227362599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_57
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 6
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67b0036c18b3bd50800000000000000
+      internalID: 6751942698418091885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_58
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 6
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baf19ec50139b820800000000000000
+      internalID: 2934430533218859699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_59
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 32
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49aafa4fc8a92010800000000000000
+      internalID: 1164647586921621839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_60
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 32
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e669c9cc9b5fe30800000000000000
+      internalID: 4536736488097214109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 32
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d482331d7f92bf10800000000000000
+      internalID: 2284063320572069072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_62
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 32
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b0b3d866f6f4950800000000000000
+      internalID: 6435484878782532453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patintero_playground_63
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 6
+        width: 102
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6210f5e4ddff3a9a0800000000000000
+      internalID: -6222848934128189146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      patintero_playground_3: -2470449417640326715
+      patintero_playground_30: 3221203768933797536
+      patintero_playground_39: 1036414401645680050
+      patintero_playground_31: 8379388680030677580
+      patintero_playground_50: -2572987596536666039
+      patintero_playground_53: -1238783389687981283
+      patintero_playground_9: 8483584759315073874
+      patintero_playground_34: -931030819039693787
+      patintero_playground_28: 7993306996817757164
+      patintero_playground_52: 1786132889541466277
+      patintero_playground_16: 6535588191013124767
+      patintero_playground_37: 8267766105190656172
+      patintero_playground_54: 8228479122627947801
+      patintero_playground_55: 53958041567395584
+      patintero_playground_0: -3102495571269123054
+      patintero_playground_47: -8639710508723197109
+      patintero_playground_11: -7576638287587143334
+      patintero_playground_32: -4277907064723221051
+      patintero_playground_17: -3074450048119016218
+      patintero_playground_22: 7089693728724005450
+      patintero_playground_35: -7495115246274004637
+      patintero_playground_20: -302867396694815755
+      patintero_playground_61: 2284063320572069072
+      patintero_playground_42: 4187994089778391182
+      patintero_playground_4: 7565261903102271932
+      patintero_playground_7: 7566409696869665791
+      patintero_playground_26: 7119045295650634407
+      patintero_playground_29: 6545494156474917726
+      patintero_playground_63: -6222848934128189146
+      patintero_playground_5: -6931843202719462487
+      patintero_playground_1: -3057177327026163618
+      patintero_playground_10: 9068996324532315771
+      patintero_playground_38: 5982700489334368515
+      patintero_playground_62: 6435484878782532453
+      patintero_playground_58: 2934430533218859699
+      patintero_playground_25: -5743655570566530653
+      patintero_playground_46: 339389798449905683
+      patintero_playground_40: -4778768303636398504
+      patintero_playground_59: 1164647586921621839
+      patintero_playground_43: -9120944861159595874
+      patintero_playground_2: 4744475478513346563
+      patintero_playground_6: -1746870609478167859
+      patintero_playground_27: -2153333041650503519
+      patintero_playground_13: 5978543808293379692
+      patintero_playground_36: 1132425638781103000
+      patintero_playground_44: 4992627595207434263
+      patintero_playground_8: -7006986831087256174
+      patintero_playground_14: 1914877269148494423
+      patintero_playground_24: -4078722091329758239
+      patintero_playground_51: 1525717771687529129
+      patintero_playground_57: 6751942698418091885
+      patintero_playground_19: -500580940821440790
+      patintero_playground_33: 8313609065592821055
+      patintero_playground_56: -4086409922227362599
+      patintero_playground_60: 4536736488097214109
+      patintero_playground_45: 8050134244926753230
+      patintero_playground_15: 7669798275715816153
+      patintero_playground_21: -5338091709547457652
+      patintero_playground_41: -5637905924418772359
+      patintero_playground_18: 6265082638655542528
+      patintero_playground_23: -6915140572902073274
+      patintero_playground_12: -4641448773717629268
+      patintero_playground_48: -1013233706007540918
+      patintero_playground_49: -4503088915919661878
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
